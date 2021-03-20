@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [checkbox:checked] Switched keyboard type from default to decimal keypad to simplify user interface.
+- [X] Switched keyboard type from default to decimal keypad to simplify user interface.
 
 ## Video Walkthrough
 
